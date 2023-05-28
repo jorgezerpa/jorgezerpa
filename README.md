@@ -1,4 +1,5 @@
-## 🔭 I'm Jorge, a full stack web developer. <br>🌎On My github you can find all Kind of projects.<br>⚡Frontend, backend, webGL and 3D, games, art...<br>🚀Feel free to take what seems useful to you , I love OpenSource.<br>🫀HAPPY CODING MY FRIEND!
+## 🔭 I'm Jorge, a full stack web developer. 
+<br>🌎On My github you can find all Kind of projects.<br>⚡Frontend, backend, webGL and 3D, games, art...<br>🚀Feel free to take what seems useful to you , I love OpenSource.<br>🫀HAPPY CODING MY FRIEND!
 
 
 ### 🌐 Socials:
