@@ -1,5 +1,5 @@
 ## 🔭 I'm Jorge, a full stack web developer. 
-<br>⚡Full-stack developer<br>⚛️+4 years experience building apps with React and React Native<br>🌎World wide experience.<br> 🚀Feel free to take what seems useful to you , I love OpenSource.<br>🫀HAPPY CODING MY FRIEND!
+<br>⚡Full-stack developer<br>⚛️+4 years experience building apps with React and React Native<br>⛓️Learning Web3 and Blockchain.<br> 🚀Feel free to take what seems useful to you , I love OpenSource.<br>🫀HAPPY CODING MY FRIEND!
 
 
 ### 🌐 Socials:
