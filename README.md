@@ -5,7 +5,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jorgezerpa&theme=react&hide_border=false)<br/>
 
 ### Key Experience
-- 4+ years of experience building web and applications.
+- 4+ years of experience building web and mobile apps.
 - Over 10 apps and 40+ websites developed and maintained.
 - Proven track record in both individual and team environments.
 
