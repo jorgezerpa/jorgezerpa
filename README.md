@@ -1,4 +1,4 @@
-## 🔭 Hi Dev!  
+## 🔭 Hi Devs!  
 <br>⚡Full-stack developer<br>⚛️+4 years experience building apps with React and React Native<br>⛓️Learning Web3 and Blockchain.<br> 🚀Feel free to take a look and fork what seems useful to you , I love Open Source.<br>🫀HAPPY CODING MY FRIEND!
 
 # 📊 GitHub Stats:
