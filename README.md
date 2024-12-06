@@ -1,6 +1,6 @@
 #
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWxtc2J2MG1yNTcwdjB6NHN2NTRyMDVkZXdpMW85Mm5oNjUzZzZkdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SwWrhzXVM7NdK/giphy.gif" width="300"/>
+<!--   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWxtc2J2MG1yNTcwdjB6NHN2NTRyMDVkZXdpMW85Mm5oNjUzZzZkdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SwWrhzXVM7NdK/giphy.gif" width="300"/> -->
 <!--   <div id="badges">
     <a href="https://www.linkedin.com/in/daniel-bejarano-alfaro-18a283206/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
