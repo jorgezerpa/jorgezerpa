@@ -19,7 +19,7 @@
 </div>
 
  🚀Starknet Smart Contracts Developer<br>
-✨OnlyDust top 5% contributor -> [Check my profile](https://app.onlydust.com/u/jorgezerpa)<br>
+✨OnlyDust top 1% contributor -> [Check my profile](https://app.onlydust.com/u/jorgezerpa)<br>
 ⚡+4 years in software development<br>
 👷Building [ZKwager](https://github.com/jorgezerpa/zkwager) <br>
 🫀HAPPY CODING MY FRIEND!
