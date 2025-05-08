@@ -23,7 +23,7 @@
 
 
 ✨OnlyDust top 1% contributor -> [Check my profile](https://app.onlydust.com/u/jorgezerpa)<br>
-🚀Starknet Smart Contracts Developer<br>
+🚀Solidity and Starknet Smart Contracts Developer<br>
 🔎Expert in Smart Contracts Testing and bug hunting<br>
 ⚡+4 years in software development<br>
 🫀HAPPY CODING MY FRIEND!
