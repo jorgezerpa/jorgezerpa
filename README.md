@@ -34,7 +34,13 @@
   </tr>
 </table>
 
-<div align="right"></div>
+### Glider Queries
+- Aave V3 Flashloan callback `executeOperation` lacks sender validation [check it](https://r.xyz/glider-query-database/query/6934630d813e566ba3e6ff47)
+- PancakeSwap V3 Flashloan callback `pancakeV3SwapCallback` Lacks Sender Validation [check it](https://r.xyz/glider-query-database/query/694b0200db3b3efd61383acc)
+- Public State-Modifying Functions Lacking Pause Protection [check it](https://r.xyz/glider-query-database/query/69680404b78dfdbec169cabc)
+- Unprotected Chainlink VRF Request Leading to Subscription's Funds Griefing and Randomness Manipulation [check it](https://r.xyz/glider-query-database/query/69528620528d1efb51ffe0ff)
+- EOA-Restricted modifiers that checks the bytecode size of the caller address can be bypassed if called from constructor [check it](https://r.xyz/glider-query-database/query/694c3323db3b3efd61383b46)
+- Non-Compliant ERC165 Self-Identification [check it](https://r.xyz/glider-query-database/query/695e8c4e528d1efb51ffea75)
 
 ###
 ###
